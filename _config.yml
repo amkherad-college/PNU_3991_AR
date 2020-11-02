@@ -1,0 +1,71 @@
+title: PNU
+lang: fa
+description: PNU
+
+# ===============================
+
+remote_theme: amkherad/jekyll-rtd-theme # rundocs/jekyll-theme-docsify
+
+author: Ali Mousavi Kherad
+
+direction: rtl
+
+debug:
+  compress: true
+  dist: false
+  shortcodes: true
+
+addons:
+  - github
+  - i18n
+  - plugins
+  - analytics
+
+sass:
+  style: compressed
+
+copyright:
+  revision: true
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-redirect-from
+
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - jekyll-rtd-theme.gemspec
+
+whitelist:
+  - jekyll-redirect-from
+
+translate:
+  # shortcodes
+  danger: خطا
+  note: یادداشت
+  tip: نکته
+  warning: اخطار
+  # 404
+  not_found: صفحه‌ای پیدا نشد
+  # copyright
+  revision: بازبینی
+  # search
+  searching: درحال جستجو
+  search: جستجو
+  search_docs: جستجو
+  search_results: نتایج جستجو
+  search_results_found: نتایج جستجو #
+  search_results_not_found: هیچ نتیجه‌ای یافت نشد
+  
