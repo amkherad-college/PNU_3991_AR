@@ -15,6 +15,10 @@ debug:
   dist: false
   shortcodes: true
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 addons:
   - github
   - i18n
