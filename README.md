@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Ali Mousavi Kherad's github stats](https://github-readme-stats.vercel.app/api?username=amkherad)](https://github.com/amkherad)
+[Ali Mousavi Kherad's github stats](https://github-readme-stats.vercel.app/api?username=amkherad)
 
 </details>
 
