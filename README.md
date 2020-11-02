@@ -1,15 +1,12 @@
 # پروژه متدولوژی تولید نرم‌افزار
 
 <details><summary>✏ <b>علی موسوی خرد</b></summary>
+<p>
 
-<br/>
-
-### :clap: Example
-
-<br/>
+### Example
 
 [Ali Mousavi Kherad's github stats](https://github-readme-stats.vercel.app/api?username=amkherad)
-
+<p>
 </details>
 
 
