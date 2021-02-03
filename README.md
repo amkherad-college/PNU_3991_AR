@@ -13,6 +13,17 @@
 * [Github](https://github.com/amkherad)
 
 
+## بخش دروس کارشناسی ارشد
+* [خلاصه ارزیابی درس مهندسی نرم افزار پیشرفته](https://github.com/amkherad-college/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/XX_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+* [خلاصه ارزیابی درس معماری نرم افزار](https://github.com/amkherad-college/PNU_3991_AR/blob/main/SoftwareArchitecture/XX_SoftwareArchitecture_CheckList_AR_3991.pdf)
+* [خلاصه ارزیابی درس متودولوژی توسعه نرم افزار](https://github.com/amkherad-college/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/XX_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+
+
+## فهرست درس ها
+[مهندسی نرم افزار پیشرفته](https://github.com/amkherad-college/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[معماری نرم افزار](https://github.com/amkherad-college/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[متدولوژی توسعه نرم افزار](https://github.com/amkherad-college/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+
 
 ## برنامه هفتگی
 
